@@ -1,2 +1,2 @@
 # jwhood
-Jeremy Hood coding/developer repository for learning python
+Jeremy Hood developer repository for learning and demonstration purposes
